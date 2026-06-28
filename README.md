@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/princebansal444/100dayleetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/princebansal444/100dayleetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1920-build-array-from-permutation](https://github.com/princebansal444/100dayleetcode/tree/master/1920-build-array-from-permutation) |
 ## Math
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/princebansal444/100dayleetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/princebansal444/100dayleetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
