@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/princebansal444/100dayleetcode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/princebansal444/100dayleetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -29,5 +30,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/princebansal444/100dayleetcode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/princebansal444/100dayleetcode/tree/master/0709-to-lower-case) |
 <!---LeetCode Topics End-->
