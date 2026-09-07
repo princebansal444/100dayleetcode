@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/princebansal444/100dayleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/princebansal444/100dayleetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/princebansal444/100dayleetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/princebansal444/100dayleetcode/tree/master/1470-shuffle-the-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/princebansal444/100dayleetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/princebansal444/100dayleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/princebansal444/100dayleetcode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/princebansal444/100dayleetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/princebansal444/100dayleetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/princebansal444/100dayleetcode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/princebansal444/100dayleetcode/tree/master/0709-to-lower-case) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/princebansal444/100dayleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
