@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/princebansal444/100dayleetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/princebansal444/100dayleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/princebansal444/100dayleetcode/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/princebansal444/100dayleetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/princebansal444/100dayleetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/princebansal444/100dayleetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/princebansal444/100dayleetcode/tree/master/1470-shuffle-the-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/princebansal444/100dayleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/princebansal444/100dayleetcode/tree/master/0704-binary-search) |
 ## Quicksort
 |  |
 | ------- |
